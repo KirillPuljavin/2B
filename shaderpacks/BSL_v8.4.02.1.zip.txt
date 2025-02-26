@@ -1,0 +1,6 @@
+#Mon Feb 24 00:02:35 CET 2025
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
+shadowDistance=192.0
+shadowMapResolution=1536
+TAA=false

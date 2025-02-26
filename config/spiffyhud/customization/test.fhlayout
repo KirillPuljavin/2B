@@ -1,0 +1,30 @@
+type = hud
+
+customization-meta {
+  renderorder = foreground
+}
+
+customization {
+  x = -3
+  action = editbosshealth
+  y = 32
+}
+
+customization {
+  x = -3
+  action = edittitle
+  y = -141
+}
+
+customization {
+  x = 0
+  action = editsubtitle
+  y = -105
+}
+
+customization {
+  x = -5
+  action = editsidebar
+  y = -69
+}
+

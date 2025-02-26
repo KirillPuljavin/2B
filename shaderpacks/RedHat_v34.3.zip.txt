@@ -1,0 +1,7 @@
+#Mon Feb 24 00:00:38 CET 2025
+CHOCAPIC_CLOUDS=false
+SHADOW_FILTER=1
+shadowMapResolution=3072
+Stars=false
+VL_BLUR=1.7
+VL_QUALITY=2.0
